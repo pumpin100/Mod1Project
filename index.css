@@ -1,22 +1,74 @@
 #latestblock{
-    background-color: blue;
-    
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    background-color: yellow;
+    position: right;
+  right: 150px;
+  width: 200px;
+  height: 120px;
+  border: 3px solid green;
+  font-size: 22px;
+  text-align: left;
+  text-decoration: none;
+  letter-spacing: 10px;
+  line-height: 200px;
+  text-indent: 30px;
+
 }
 
 
 #ethsupply{
-    background-color: red
+    background-color: red;
+    position: static;
+  right: 150px;
+  width: 200px;
+  height: 120px;
+  border: 3px solid brown;
+  white-space: nowrap;
+  overflow: visible;
+  text-indent: 30px;
+  line-height: 200px;
+  
+  text-decoration: none;
+  font-size: 22px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+     
+     
+  
 
 }
 
 
 #ethprice{
-    background-color: blue
+    background-color: blue;
+    position: static;
+  right: 150px;
+  width: 200px;
+  height: 120px;
+  border: 3px solid black;
+  text-indent: 30px;
+  line-height: 200px;
+  letter-spacing: 10px;
+  text-decoration: none;
+  font-size: 22px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
     
 }
 
 
 #transApi{
-
+    background-color: white;
+    position: left;
+  right: 150px;
+  width: 200px;
+  height: 120px;
+  border: 3px solid greenyellow;
+  text-indent: 30px;
+  letter-spacing: 10px;
+  line-height: 200px;
+  font-size: 22px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
 }
+body {
+    background-color: purple;
+  }
 
